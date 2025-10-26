@@ -1,21 +1,47 @@
 2025:
-  - name: Alice Johnson
+  - name: Zoe Godard
     title: President
-    image: /assets/images/committee/alice.jpg
-  - name: Bob Singh
+    image: /assets/images/committee/silhouettes_4.jpg
+  - name: Nicholas Daultry-Ball
     title: Treasurer
-    image: /assets/images/committee/bob.jpg
-  - name: Carol Lee
+    image: /assets/images/committee/silhouettes_4.jpg
+  - name: Cayen Wang
     title: Secretary
-    image: /assets/images/committee/carol.jpg
-  - name: Dan Kim
-    title: Events Chair
-    image: /assets/images/committee/dan.jpg
+    image: /assets/images/committee/silhouettes_4.jpg
+  - name: Prof Dominic Vella 
+    title: Faculty Advisor
+    image: /assets/images/committee/dominicvella.jpg
 
 2024:
-  - name: Sarah Liu
+  - name: Nicholas Ryan
     title: President
-    image: /assets/images/committee/sarah.jpg
-  - name: Tom Blake
+    image: /assets/images/committee/silhouettes_4.jpg
+  - name: Nicholas Daultry-Ball
     title: Treasurer
-    image: /assets/images/committee/tom.jpg
+    image: /assets/images/committee/silhouettes_4.jpg
+  - name: Zoe Godard
+    title: Secretary
+    image: /assets/images/committee/silhouettes_4.jpg
+  - name: Prof Dominic Vella 
+    title: Faculty Advisor
+    image: /assets/images/committee/silhouettes_4.jpg
+  - name: Javier Chico-Vasquez  
+    title: JAMS coordinator 
+    image: /assets/images/committee/silhouettes_4.jpg
+
+2023:
+  - name: Rebecca Crossley
+    title: President
+    image: /assets/images/committee/Rebecca.jpg
+  - name: Nicholas Daultry-Ball
+    title: Treasurer
+    image: /assets/images/committee/silhouettes_4.jpg
+  - name: Nicholas Ryan
+    title: Secretary
+    image: /assets/images/committee/silhouettes_4.jpg
+  - name: Prof Dominic Vella 
+    title: Faculty Advisor
+    image: /assets/images/committee/silhouettes_4.jpg
+  - name: Matthew Cotton
+    title: JAMS coordinator 
+    image: /assets/images/committee/silhouettes_4.jpg
