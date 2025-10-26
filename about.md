@@ -16,3 +16,9 @@ We are now one of the largest chapters worldwide with members including undergra
 - Organising internal seminars and workshops for researchers to present their work, and arranging social functions in Oxford at which members can interact in an informal setting.
 - Engaging Oxford University members in SIAM’s international community through the conferences, competitions, prizes and other opportunities offered by SIAM.
 - Establishing links with industrial partners.
+
+
+
+{% include committee.html year=2025 %}
+
+{% include committee.html year=2024 %}

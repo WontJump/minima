@@ -1,0 +1,15 @@
+
+- id: SIAM
+  name: Society for Industrial and Applied Mathematics
+  logo: /assets/images/sponsors/siam_long.png
+  url: https://www.siam.org/
+
+- id: IMA
+  name: Institute for Mathematics & its Applications
+  logo: /assets/images/sponsors/ima_long.png
+  url: https://ima.org.uk/
+
+- id: OMI
+  name: University of Oxford Mathematical Institute
+  logo: /assets/images/sponsors/oxford_long.png
+  url: https://www.maths.ox.ac.uk/

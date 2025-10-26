@@ -44,6 +44,8 @@
     display: none;
   }
 
+
+
 // changed the nav items to background colour :( 
 
   .nav-item {
@@ -51,7 +53,11 @@
     &:not(:last-child) {
       margin-right: $spacing-unit * 0.5;
     }
+    font-size: 1.2rem;     // or 18px
+    font-weight: 600;  
   }
+
+  
 
   @include media-query($on-medium) {
     position: absolute;
@@ -425,3 +431,75 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+
+
+/**
+ * Comittee members
+ */
+
+.committee {
+  text-align: center;
+  margin: 2rem 0;
+
+  h2 {
+    margin-bottom: 1.5rem;
+  }
+
+  .committee-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+  }
+
+  .committee-member {
+    max-width: 200px;
+  }
+
+  .committee-member img {
+    width: 100%;
+    border-radius: 50%; // circular photos
+  }
+
+  .committee-member h3 {
+    margin: 0.5rem 0 0.2rem;
+  }
+
+  .committee-member p {
+    color: #555;
+    margin: 0;
+  }
+}
+
+
+
+/**
+ * Sponsors
+ */
+
+
+.sponsor {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.sponsor img {
+  width: 300px;      // larger logos
+  height: auto;
+  object-fit: contain;
+}
+
+.sponsor-name {
+  font-size: 1.4rem; // larger text
+  font-weight: 600;
+  color: $text-color;
+}
+
+.sponsor a {
+  display: inline-flex;
+  align-items: center;
+}
+

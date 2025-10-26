@@ -1,0 +1,14 @@
+<section class="committee">
+  {% assign committee = site.data.committee[include.year] %}
+  <h2>Committee {{ include.year }}</h2>
+
+  <div class="committee-grid">
+    {% for member in committee %}
+      <div class="committee-member">
+        <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        <h3>{{ member.name }}</h3>
+        <p>{{ member.title }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>

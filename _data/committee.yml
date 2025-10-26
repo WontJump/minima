@@ -1,0 +1,21 @@
+2025:
+  - name: Alice Johnson
+    title: President
+    image: /assets/images/committee/alice.jpg
+  - name: Bob Singh
+    title: Treasurer
+    image: /assets/images/committee/bob.jpg
+  - name: Carol Lee
+    title: Secretary
+    image: /assets/images/committee/carol.jpg
+  - name: Dan Kim
+    title: Events Chair
+    image: /assets/images/committee/dan.jpg
+
+2024:
+  - name: Sarah Liu
+    title: President
+    image: /assets/images/committee/sarah.jpg
+  - name: Tom Blake
+    title: Treasurer
+    image: /assets/images/committee/tom.jpg

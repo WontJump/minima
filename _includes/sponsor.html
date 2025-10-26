@@ -1,0 +1,16 @@
+{% assign sponsor = site.data.sponsors | where: "id", include.id | first %}
+
+{% if sponsor %}
+  <div class="sponsor">
+    {% if sponsor.url %}
+      <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
+        <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo">
+      </a>
+    {% else %}
+      <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo">
+    {% endif %}
+    <span class="sponsor-name">{{ sponsor.name }}</span>
+  </div>
+{% else %}
+  <p class="sponsor-missing">⚠️ Sponsor not found: {{ include.id }}</p>
+{% endif %}
