@@ -6,7 +6,7 @@
   width: 100%;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
-  background-color: $header-color;
+  background-color: rgb(0, 0, 119);
   border-top: 5px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
 }
@@ -15,7 +15,13 @@
   max-width: 100%;
   margin: 0;
   padding: 15px;
+  display: flex;
+  justify-content: flex-start; /* site-title left, nav right */
+  align-items: left;
+  gap: 2rem
 }
+
+
 
 
 .site-title {
@@ -31,7 +37,7 @@
 
   &,
   &:visited {
-    color: $site-title-color;
+    color: white;
   }
 }
 
@@ -501,5 +507,21 @@
 .sponsor a {
   display: inline-flex;
   align-items: center;
+}
+
+
+/**
+ * Home button
+ */
+
+.site-title a {
+  color: rgb(255, 255, 255);  // the color of the SVG
+  display: inline-flex;
+  align-items: center;
+}
+
+.home-icon {
+  width: 1.5em;   // scales with text
+  height: 1.5em;
 }
 
