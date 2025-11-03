@@ -464,8 +464,13 @@
   }
 
   .committee-member img {
-    width: 100%;
-    border-radius: 50%; // circular photos
+    width: 150px;          // fixed width
+    height: 150px;         // fixed height to match width
+    border-radius: 50%;    // makes it circular
+    object-fit: cover;     // crops image nicely without stretching
+    border: 3px solid #ddd; // optional border for polish
+    display: block;
+    margin: 0 auto;        // center the image
   }
 
   .committee-member h3 {
@@ -477,6 +482,7 @@
     margin: 0;
   }
 }
+
 
 
 
@@ -524,4 +530,6 @@
   width: 1.5em;   // scales with text
   height: 1.5em;
 }
+
+
 

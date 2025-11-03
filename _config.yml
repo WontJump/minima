@@ -40,7 +40,10 @@ minima:
     - seminars.md 
     - contact.md 
 
-
+  external_links:
+    - title: "External Site"
+      url: "https://example.com"
+      
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
 

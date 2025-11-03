@@ -11,3 +11,4 @@ We are grateful to the generous sponsorship and support of the following organis
 {% include sponsor.html id="OMI" %}
 {% include sponsor.html id="IMA" %}
 {% include sponsor.html id="SIAM" %}
+{% include sponsor.html id="GR" %}

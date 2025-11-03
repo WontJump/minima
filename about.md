@@ -22,3 +22,5 @@ We are now one of the largest chapters worldwide with members including undergra
 {% include committee.html year=2025 %}
 
 {% include committee.html year=2024 %}
+
+{% include committee.html year=2023 %}

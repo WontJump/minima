@@ -1,10 +1,10 @@
 2025:
   - name: Zoe Godard
     title: President
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/Zoe_Godard.jpg
   - name: Nicholas Daultry-Ball
     title: Treasurer
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/Nick_DB.png
   - name: Cayen Wang
     title: Secretary
     image: /assets/images/committee/silhouettes_4.jpg
@@ -15,19 +15,19 @@
 2024:
   - name: Nicholas Ryan
     title: President
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/Nick_Ryan.png
   - name: Nicholas Daultry-Ball
     title: Treasurer
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/Nick_DB.png
   - name: Zoe Godard
     title: Secretary
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/Zoe_Godard.jpg
   - name: Prof Dominic Vella 
     title: Faculty Advisor
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/dominicvella.jpg
   - name: Javier Chico-Vasquez  
     title: JAMS coordinator 
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/Javi_Chico.png
 
 2023:
   - name: Rebecca Crossley
@@ -35,13 +35,14 @@
     image: /assets/images/committee/Rebecca.jpg
   - name: Nicholas Daultry-Ball
     title: Treasurer
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/Nick_DB.png
   - name: Nicholas Ryan
     title: Secretary
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/Nick_Ryan.png
   - name: Prof Dominic Vella 
     title: Faculty Advisor
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/dominicvella.jpg
   - name: Matthew Cotton
     title: JAMS coordinator 
-    image: /assets/images/committee/silhouettes_4.jpg
+    image: /assets/images/committee/Matthew_Cotton.png
+
