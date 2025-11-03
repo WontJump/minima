@@ -6,25 +6,16 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
+      <!-- New Column for Image -->
       <div class="footer-col">
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
+        <img src="{{ '/assets/images/sponsors/SIAM_student.png' | relative_url }}" alt="Footer Logo" style="height:100%; width:auto;">
+
       </div>
+
+
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
     </div>
 
   </div>

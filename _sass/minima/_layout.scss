@@ -218,6 +218,23 @@
   }
 }
 
+/**
+ * Site footer image
+ */
+
+/* Make footer a flex container so image fills height */
+.site-footer .footer-col-wrapper {
+  display: flex;          /* makes columns line up horizontally */
+  align-items: center;    /* vertically centers everything in the footer */
+}
+
+.site-footer .footer-col img {
+  margin: 0;              /* remove extra spacing */
+  display: block;
+  height: 100%;           /* fill parent column height */
+  width: auto;
+}
+
 
 
 /**

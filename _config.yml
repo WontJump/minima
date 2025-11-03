@@ -1,7 +1,7 @@
 title: University of Oxford SIAM-IMA Chapter
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Oxford University SIAM Chapter
+  email: siamsc@maths.ox.ac.uk
 
 description: >
   The University of Oxford SIAM-IMA Student Chapter is a fast-growing 
@@ -37,13 +37,14 @@ minima:
   nav_pages:
     - about.md
     - sponsors.md
-    - seminars.md 
     - contact.md 
 
   external_links:
-    - title: "External Site"
-      url: "https://example.com"
-      
+    - title: "Conference '25"
+      url: "https://www.amp2025.com/"
+    - title: "Seminars"
+      url: "https://www.maths.ox.ac.uk/events/list/650"
+
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
 
@@ -58,13 +59,13 @@ minima:
   #     * title    Tooltip rendered on hovering over icon.
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
-  social_links:
-    - title: Minima Theme repository at GitHub
-      icon: github
-      url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/jekyllrb"
+  # social_links:
+  #   - title: Minima Theme repository at GitHub
+  #     icon: github
+  #     url: "https://github.com/jekyll/minima"
+  #   - title: Jekyll at X (formerly Twitter)
+  #     icon: x-twitter
+  #     url: "https://x.com/jekyllrb"
 
 
 
