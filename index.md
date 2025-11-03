@@ -22,6 +22,12 @@ We are now one of the largest chapters worldwide with members including undergra
 - Engaging Oxford University members in SIAM’s international community through the conferences, competitions, prizes and other opportunities offered by SIAM.
 - Establishing links with industrial partners.
 
+## Join Us! 
+
+
+- Subscribe to our mailing list by sending a blank email to siam-student-chapter-announce-subscribe@maths.ox.ac.uk
+- All undergraduates, graduate students, post-doctoral researchers and faculty at the Oxford Mathematical Institute are welcome to participate in our events.
+- There are many benefits to be enjoyed as a free student member of the Society for Industrial and Applied Mathematics (SIAM), our mother organisation. Find out more on their website: https://www.siam.org/membership/individual-membership/
 
 
 {% include committee.html year=2025 %}
