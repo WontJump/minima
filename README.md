@@ -15,6 +15,7 @@ This is a fork of the minima theme (standard jekyll theme) for the Oxford SIAM-I
 - so the nav bar is now broken (its only got the about page and theres a new site title as a home page link) I think this is because the config yaml file was empty and I've entered some basic settings 
 - also for some reason the header color variable wasn't working so I've just defined it within the layout scss file for a quick work around.
 - added a logo to the footer 
+- now more committee members appear on each line but I'm not sure how this looks on small screens 
 
 
 # Todo 
@@ -22,6 +23,8 @@ This is a fork of the minima theme (standard jekyll theme) for the Oxford SIAM-I
 - should be more left padding on the top bar 
 - Need to further clean up the comittee page and bring over the data
 - need to add a proper landing pages 
+- add in buttons to the contact page etc
+- make the committee members clickable buttons that go to peoples webpages (and highlight)  
 
 
 

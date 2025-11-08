@@ -2,15 +2,19 @@
   - name: Zoe Godard
     title: President
     image: /assets/images/committee/Zoe_Godard.jpg
-  - name: Nicholas Daultry-Ball
+  - name: Saffron Cormican
     title: Treasurer
-    image: /assets/images/committee/Nick_DB.png
+    image: /assets/images/committee/silhouettes_4.jpg
   - name: Cayen Wang
     title: Secretary
     image: /assets/images/committee/silhouettes_4.jpg
+  - name: Willem Jump
+    title: General Administration
+    image: /assets/images/committee/silhouettes_4.jpg  
   - name: Prof Dominic Vella 
     title: Faculty Advisor
     image: /assets/images/committee/dominicvella.jpg
+
 
 2024:
   - name: Nicholas Ryan
@@ -22,12 +26,13 @@
   - name: Zoe Godard
     title: Secretary
     image: /assets/images/committee/Zoe_Godard.jpg
-  - name: Prof Dominic Vella 
-    title: Faculty Advisor
-    image: /assets/images/committee/dominicvella.jpg
   - name: Javier Chico-Vasquez  
     title: JAMS coordinator 
     image: /assets/images/committee/Javi_Chico.png
+  - name: Prof Dominic Vella 
+    title: Faculty Advisor
+    image: /assets/images/committee/dominicvella.jpg
+
 
 2023:
   - name: Rebecca Crossley
@@ -39,10 +44,10 @@
   - name: Nicholas Ryan
     title: Secretary
     image: /assets/images/committee/Nick_Ryan.png
-  - name: Prof Dominic Vella 
-    title: Faculty Advisor
-    image: /assets/images/committee/dominicvella.jpg
   - name: Matthew Cotton
     title: JAMS coordinator 
     image: /assets/images/committee/Matthew_Cotton.png
+  - name: Prof Dominic Vella 
+    title: Faculty Advisor
+    image: /assets/images/committee/dominicvella.jpg
 
