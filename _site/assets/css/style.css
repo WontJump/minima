@@ -1118,7 +1118,7 @@ table td {
   }
 }
 /**
- * Comittee members
+ * Committee members
  */
 .committee {
   text-align: center;
@@ -1132,6 +1132,8 @@ table td {
   flex-wrap: wrap;
   justify-content: center;
   gap: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
 }
 .committee .committee-member {
   max-width: 200px;
@@ -1153,6 +1155,28 @@ table td {
   margin: 0;
 }
 
+/* --- Responsive adjustments --- */
+/* 4 per row on medium screens */
+@media (max-width: 1200px) {
+  .committee .committee-member {
+    max-width: 180px;
+  }
+}
+/* 3 per row on tablets */
+@media (max-width: 900px) {
+  .committee .committee-grid {
+    gap: 1.5rem;
+  }
+  .committee .committee-member {
+    max-width: 160px;
+  }
+}
+/* 2 per row on small tablets / large phones */
+@media (max-width: 650px) {
+  .committee .committee-member {
+    max-width: 45%;
+  }
+}
 /**
  * Sponsors
  */
@@ -1192,6 +1216,16 @@ table td {
 .home-icon {
   width: 1.5em;
   height: 1.5em;
+}
+
+/* Break out of Minima's centered wrapper */
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 /*# sourceMappingURL=style.css.map */
